@@ -1,5 +1,6 @@
 **Task One: Functioning LED Lights** <br />
-<br /> Imgur link to funcitoning LEDs: imgur.com/a/AsFJgZx <br />
+<br /> Task one consisted of a Functioning LED series of lights using the microbit and miniature breadboard. The lights are capable of dimming and cycling between each other. original-guide.js  
+Imgur link to funcitoning LEDs: imgur.com/a/AsFJgZx <br />
 <br />
 **Task Two: Enabled Led Matrix** <br />
 
